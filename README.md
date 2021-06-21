@@ -10,7 +10,7 @@ In the project, we are going to build a web app that will generate meme.
 
 
 
-### Techonologies used
+### Technologies used
 
 HTML, CSS, JavaScript, React framework
 
