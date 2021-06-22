@@ -9,8 +9,9 @@ This project was part of the scrimba Learn React course (https://scrimba.com/lea
 In the project, we are going to build a web app that will generate meme.
 
 ### How it works?
-![animation showing deletion of requests](https://media.giphy.com/media/miOgPeLeG2eKrs3rcx/giphy.gif)
-
+<!-- ![animation showing deletion of requests](https://media.giphy.com/media/miOgPeLeG2eKrs3rcx/giphy.gif)
+ -->
+ 
 
 ### Technologies used
 
