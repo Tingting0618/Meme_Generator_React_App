@@ -9,6 +9,7 @@ In the project, we are going to build a web app that will generate meme.
 ### How it works?
 
 Please click below video to play.
+
 https://user-images.githubusercontent.com/44503223/122845193-bd878700-d2c8-11eb-82db-50acd279c188.mp4
 
 ### Technologies used
