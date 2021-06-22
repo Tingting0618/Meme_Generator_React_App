@@ -19,4 +19,4 @@ HTML, CSS, JavaScript, React framework
 
 ## Learn More
 
-You can learn more in the [Project Portfolio](https:tingting0618.github.io).
+You can learn more in the [Tingting Project Portfolio](https://tingting0618.github.io).
