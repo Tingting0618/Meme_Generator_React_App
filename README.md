@@ -1,4 +1,4 @@
-# Meme generator - React App
+# Meme Generator - React App
 
 This project was part of the scrimba Learn React course (https://scrimba.com/learn/react).
 
