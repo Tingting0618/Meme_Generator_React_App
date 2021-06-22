@@ -11,7 +11,7 @@ In the project, we are going to build a web app that will generate meme.
 ### How it works?
 <!-- ![animation showing deletion of requests](https://media.giphy.com/media/miOgPeLeG2eKrs3rcx/giphy.gif)
  -->
-[<img src="./images/fetch-intro.png" width="800px" />](https://vimeo.com/565868711)
+https://vimeo.com/565868711
 
 ### Technologies used
 
